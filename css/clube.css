@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background-color: #fbf6ee; /* bege-claro: fundo da página */
+  color: #3b2a1e; /* marrom-escuro: texto */
+}
+
+header,
+footer {
+  padding: 1rem;
+  background-color: #7a2e2e; /* vinho: faixa do topo e do rodapé */
+  color: #ffffff; /* branco */
+}
+
+header a {
+  color: #ffffff; /* branco: nome do clube no topo */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+main img {
+  max-width: 100%;
+}
+
+.encontros {
+  padding: 0;
+  list-style: none;
+}
